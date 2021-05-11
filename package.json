@@ -9,6 +9,7 @@
     "actionpack": "^0.0.4",
     "activerecord": "^0.2.1",
     "is-svg": "^4.3.1",
+    "postcss": "^7.0.35",
     "turbolinks": "^5.2.0"
   },
   "version": "0.1.0",
